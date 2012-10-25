@@ -12,5 +12,5 @@
 //
 //= require jquery
 //= require jquery_ujs
-//= require easyxdm-rails/easyXDM
+//= require easyXDM
 //= require_tree .
